@@ -9,4 +9,3 @@
 * [1.7 The Operating System Manages the Hardware](/Ch01/7.md)
 * [1.8 Systems Communicate with Other Systems Using Networks](/Ch01/8.md)
 * [1.9 Import Themes](/Ch01/9.md)
-* 
