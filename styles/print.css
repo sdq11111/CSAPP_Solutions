@@ -1,1 +1,3 @@
-/* CSS for print */
+.summary .chapter b {
+    display: none
+}
