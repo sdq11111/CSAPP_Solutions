@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        "mathjax",
+        "github"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/sdq11111/CSAPP_Solutions.git"
+        }
+    }
+}
